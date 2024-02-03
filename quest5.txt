@@ -1,0 +1,8 @@
+chmod +x ai_door_management_module.sh 
+./ai_door_management_module.sh 
+Cd door_managment_files    
+mkdir door_configuration   
+mkdir door_logs  
+mkdir door_map 
+Cd ../
+./ai_door_management_module.sh      
